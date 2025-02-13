@@ -1,14 +1,15 @@
-title: Your Name
+title: Jessie Aldridge
 author:
-  name: Your Name
-  email: your-email@domain.com
+  name: Jessie Aldridge
+  email: jwaldridgethe4@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here...
-url: "https://cblevins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/sp25-data-portfolio" # the subpath of your site, e.g. /blog
+  This is a portfolio for all of my professional and academic work!
+url: "https://jwaldridgeIV.github.io" #Your Github username
+baseurl: "" # Remove the baseurl content since this will be your main site
+
 
 # Build settings
 
@@ -72,7 +73,7 @@ minima:
   social_links:
     - title: Github
       icon: github
-      url: "https://github.com/your-github-username/"
+      url: "https://github.com/jwaldridgeIV"
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/your-linkedin-username/"

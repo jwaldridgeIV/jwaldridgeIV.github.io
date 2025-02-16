@@ -14,6 +14,6 @@ This is my project review. It was written on {{ page.date }} and falls under the
 After brainstorming some ideas and thinking about cool projects I have seen online, I have decided to explore the history of [Streetcars in Colorado](https://cdot.maps.arcgis.com/apps/MapSeries/index.html?appid=3e33bb458ab54c6086556fd4a320449a) for my project review. I will take an in depth look into how CODOT presents the data they have on this history, and hopefully come away with better knowledge on how to create a well-written narrative through online data-driven formats.
 
 
-## Introduction
-
-This is the introduction to my review of project A.
+<div align="center">
+  <p><img src="/assets/img/example-screenshot.jpg" style="width: 80%;" /></p>
+</div>

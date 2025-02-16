@@ -79,6 +79,10 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/jessie-aldridge-iv/"
+    - title: Diamonds!
+      icon: <i class="fa-brands fa-sketch"></i>
+      url: "https://www.shaneco.com"
+      
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter
   #    url: "https://x.com/jekyllrb"

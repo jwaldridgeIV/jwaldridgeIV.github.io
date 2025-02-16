@@ -79,9 +79,9 @@ minima:
     - title: Linkedin
       icon: linkedin
       url: "https://www.linkedin.com/in/jessie-aldridge-iv/"
-    - title: learning!
-      icon: <i class="fa-brands fa-pagelines"></i>
-      url: "https://www.wikipedia.com"
+    - title: Spotify
+      icon: spotify
+      url: "https://open.spotify.com/user/j%24woogie"
       
   #  - title: Jekyll at X (formerly Twitter)
   #    icon: x-twitter

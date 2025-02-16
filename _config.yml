@@ -38,7 +38,9 @@ navigation:
     - title: "Portfolio"
       url: "/portfolio/"
     - title: "Project Review"
-      url: "/project-review/"
+      url: "/project-review/"   
+    - title: "Skills"
+      url: "/skills/"
 
 include: ["_pages"]
 permalink: /:title/

@@ -42,3 +42,9 @@ With a project such as this one, finding the target audience can be somewhat tri
 <div align="center">
   <p><img src="/assets/img/greymap.jpeg" style="width: 80%;" /></p>
 </div>
+
+### Bibliography
+
+Colorado Department of Transportation. 2020. “Historic Streetcars of Colorado.” Arcgis.com. 2020. https://cdot.maps.arcgis.com/apps/MapSeries/index.html?appid=3e33bb458ab54c6086556fd4a320449a.
+
+Litvak, Dianna, Ethan Raath, Nick VanderKwaak, and Jennifer Wahlers. 2020. “Historic Streetcar Systems of Colorado.” Historycolorado.org. History Colorado. September 2020. https://www.historycolorado.org/sites/default/files/media/document/2020/Historic%20Streetcar%20Systems%20of%20Colorado_Part%201.pdf.
